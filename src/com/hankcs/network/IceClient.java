@@ -23,8 +23,6 @@ import org.ice4j.ice.harvest.StunCandidateHarvester;
 import org.ice4j.ice.harvest.TurnCandidateHarvester;
 import org.ice4j.security.LongTermCredential;
 
-import test.SdpUtils;
-
 public class IceClient
 {
 
